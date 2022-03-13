@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: J2eeLearn
+Bundle-SymbolicName: J2eeLearn;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: j2eelearn
+Require-Bundle: org.eclipse.ui
+Automatic-Module-Name: J2eeLearn
+Bundle-RequiredExecutionEnvironment: JavaSE-11
